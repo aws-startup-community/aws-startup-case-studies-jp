@@ -7,7 +7,7 @@ description: 西日本に本社のあるスタートアップ企業における 
 
 ## 関西
 ### 株式会社ギフトパッド
-- [経験したことのない、大規模サービスに挑戦しちゃってた件。](https://pages.awscloud.com/rs/112-TZM-766/images/GIFT-PAD.pdf)
+- [経験したことのない、大規模サービスに挑戦しちゃってた件。](https://pages.awscloud.com/rs/112-TZM-766/images/Gift-Pad (2).pdf)
 
 ### 株式会社インゲージ
 - [Re:lation と AWS](https://pages.awscloud.com/rs/112-TZM-766/images/INGAGE.pdf)
